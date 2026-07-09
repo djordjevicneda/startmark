@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://startmarktrade.com/sitemap.xml
